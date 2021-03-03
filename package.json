@@ -1,0 +1,25 @@
+{
+  "name": "lerna-github-actions-release",
+  "version": "1.0.0",
+  "description": "Lerna GitHub Actions Release Flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fupengl/lerna-github-actions-release.git"
+  },
+  "keywords": [],
+  "author": "fupeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fupengl/lerna-github-actions-release/issues"
+  },
+  "homepage": "https://github.com/fupengl/lerna-github-actions-release#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "lerna": "^4.0.0"
+  }
+}

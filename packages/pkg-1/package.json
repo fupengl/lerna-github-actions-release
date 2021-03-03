@@ -1,0 +1,26 @@
+{
+  "name": "pkg-1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fupeng <fupenglxy@gmail.com>",
+  "homepage": "https://github.com/fupengl/lerna-github-actions-release/tree/main/packages/pkg-1#readme",
+  "license": "ISC",
+  "main": "lib/pkg-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fupengl/lerna-github-actions-release.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/fupengl/lerna-github-actions-release/issues"
+  }
+}
